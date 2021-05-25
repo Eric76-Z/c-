@@ -1,0 +1,9 @@
+F:\My Code\c#code\studyproject\app1\app1\bin\Debug\app1.exe.config
+F:\My Code\c#code\studyproject\app1\app1\bin\Debug\app1.exe
+F:\My Code\c#code\studyproject\app1\app1\bin\Debug\app1.pdb
+F:\My Code\c#code\studyproject\app1\app1\obj\Debug\app1.csprojAssemblyReference.cache
+F:\My Code\c#code\studyproject\app1\app1\obj\Debug\app1.Form1.resources
+F:\My Code\c#code\studyproject\app1\app1\obj\Debug\app1.Properties.Resources.resources
+F:\My Code\c#code\studyproject\app1\app1\obj\Debug\app1.csproj.GenerateResource.cache
+F:\My Code\c#code\studyproject\app1\app1\obj\Debug\app1.exe
+F:\My Code\c#code\studyproject\app1\app1\obj\Debug\app1.pdb

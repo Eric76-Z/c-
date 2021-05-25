@@ -1,0 +1,9 @@
+F:\MyCode\c#code\socketLearn\bin\Debug\socketLearn.exe.config
+F:\MyCode\c#code\socketLearn\bin\Debug\socketLearn.exe
+F:\MyCode\c#code\socketLearn\bin\Debug\socketLearn.pdb
+F:\MyCode\c#code\socketLearn\obj\Debug\socketLearn.csprojAssemblyReference.cache
+F:\MyCode\c#code\socketLearn\obj\Debug\socketLearn.Form1.resources
+F:\MyCode\c#code\socketLearn\obj\Debug\socketLearn.Properties.Resources.resources
+F:\MyCode\c#code\socketLearn\obj\Debug\socketLearn.csproj.GenerateResource.cache
+F:\MyCode\c#code\socketLearn\obj\Debug\socketLearn.exe
+F:\MyCode\c#code\socketLearn\obj\Debug\socketLearn.pdb
